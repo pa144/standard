@@ -7,7 +7,7 @@
   <groupId>Demo</groupId>
   <artifactId>Training</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>pom</packaging> 
+  <packaging>POM</packaging> 
 
   <name>Training</name>
   <!-- FIXME change it to the project's website -->
@@ -32,10 +32,10 @@
     </snapshotRepository>
 </distributionManagement>
   
-  <modules>
+  <!-- <modules>
   <module>add</module>
   <module>sub</module>
-  </modules> 
+  </modules> --> 
 
   <dependencies>
     <dependency>
